@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PatientPortal
 This application was generated using JHipster 4.13.3, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.13.3](http://www.jhipster.tech/documentation-archive/v4.13.3).
 
@@ -167,7 +166,3 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Protractor]: https://angular.github.io/protractor/
 [Leaflet]: http://leafletjs.com/
 [DefinitelyTyped]: http://definitelytyped.org/
-=======
-# pluralsight
-Cursos realizados en pluralsight
->>>>>>> 0cda2a1ca2f6f37989a95e8482799e402b487ad1
