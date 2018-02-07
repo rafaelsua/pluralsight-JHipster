@@ -1,4 +1,4 @@
-import { Routes } from '@angular/router';
+ import { Routes } from '@angular/router';
 import { UserRouteAccessService } from '../../shared';
 import { AppointmentsComponent } from './appointments.component';
 import {AppointmentsPopupComponent} from "./appointments-dialog.component";
